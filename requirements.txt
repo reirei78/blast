@@ -1,4 +1,8 @@
 streamlit
+torch
+torch.nn
+transforms
+Image
 numpy
-pandas
-scikit-learn
+pytorch_lightning
+accuracy
